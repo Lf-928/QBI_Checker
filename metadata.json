@@ -1,0 +1,6 @@
+{
+  "name": "SafeHarbor 199A - QBI 250-Hour Audit & Tax Tracker",
+  "description": "Contemporaneous time tracking, financial segregation, safe harbor exclusion checks, and audit-ready IRS Notice 2019-38 Section 199A 20% QBI deduction reporting for real estate investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
